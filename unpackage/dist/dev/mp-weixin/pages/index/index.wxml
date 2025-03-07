@@ -1,0 +1,1 @@
+<view class="content"><image class="logo" src="{{a}}"></image><view class="text-area"><button bindtap="{{b}}">跳到webview</button></view></view>
